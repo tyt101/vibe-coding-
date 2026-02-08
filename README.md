@@ -7,8 +7,6 @@
 - **流式响应** - 实时 AI 对话体验
 - **多会话管理** - 支持创建、切换、删除多个会话
 - **历史记录** - 聊天记录自动保存到 SQLite
-- **Markdown 渲染** - 支持表格、代码高亮
-- **模块化架构** - 自定义 Hooks + 组件化设计
 
 ## 技术栈
 
@@ -16,7 +14,7 @@
 | -------- | ---------------------------- |
 | 前端框架 | Next.js 16 + React 19        |
 | 样式     | Tailwind CSS 4               |
-| AI 模型  | Google Gemini 3 Pro          |
+| AI 模型  | Qwen          |
 | AI 框架  | LangGraphJS + LangChain      |
 | 数据库   | SQLite (better-sqlite3)      |
 | 语言     | TypeScript 5                 |
